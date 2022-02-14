@@ -5,9 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@mauro.erta](https://medium.com/@mauro.erta)
 
-- 💬 Ask me about **react, typescript, design system**
-
-- 📫 How to reach me **mauro.erta@gmail.com** or **info@morfeo.dev**
+- 📫 You can reach me at **mauro.erta@gmail.com** or **info@morfeo.dev**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
