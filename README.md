@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mauro</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
-- 🔭 I’m currently working on [VLK Studio](https://github.com/VLK-STUDIO)
-
-- 👯 I’m looking to collaborate on [Morfeo](https://github.com/morfeojs)
-
-- 🤝 I’m looking for help with [Morfeo](https://github.com/morfeojs)
+- 🔭 I’m currently working on [Morfeo](https://github.com/morfeojs) at [@VLK Studio](https://github.com/VLK-STUDIO)
 
 - 📝 I regularly write articles on [https://medium.com/@mauro.erta](https://medium.com/@mauro.erta)
 
 - 💬 Ask me about **react, typescript, design system**
 
-- 📫 How to reach me **mauro.erta@gmail.com**
+- 📫 How to reach me **mauro.erta@gmail.com** or **info@morfeo.dev**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
