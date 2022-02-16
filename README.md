@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Morfeo](https://github.com/morfeojs) at [@VLK Studio](https://github.com/VLK-STUDIO)
 
-- 📝 I regularly write articles on [https://medium.com/@mauro.erta](https://medium.com/@mauro.erta)
+- 📝 I write articles on [https://medium.com/@mauro.erta](https://medium.com/@mauro.erta) (I hope to do it more often soon 🤞)
 
 - 📫 You can reach me at **mauro.erta@gmail.com** or **info@morfeo.dev**
 
