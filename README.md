@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [“What is a Design System?” is the Wrong Question](https://javascript.plainenglish.io/what-is-a-design-system-is-the-wrong-question-6b82cc7c661c?source=rss-41123fb7e7ff------2)
 - [“Cos’è un Design System?” è la domanda sbagliata](https://medium.com/vlk-studio/cos%C3%A8-un-design-system-%C3%A8-la-domanda-sbagliata-eb29fec7e633?source=rss-41123fb7e7ff------2)
 - [Sponsorhello — open-source funding for dummies](https://medium.com/vlk-studio/sponsorhello-open-source-funding-for-dummies-a19f49f68586?source=rss-41123fb7e7ff------2)
 - [Redux - fromScarso2King - 10 - Mini App](https://medium.com/vlk-studio/redux-fromscarso2king-10-mini-app-a86a69e72447?source=rss-41123fb7e7ff------2)
-- [Redux - fromScarso2King - 9 - Le Saga](https://medium.com/vlk-studio/redux-fromscarso2king-9-le-saga-894e985c4e0f?source=rss-41123fb7e7ff------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
