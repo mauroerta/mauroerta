@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Morfeo](https://github.com/morfeojs) at [@VLK Studio](https://github.com/VLK-STUDIO)
 
-- 📝 I write articles on [https://medium.com/@mauro.erta](https://medium.com/@mauro.erta) (I hope to do it more often soon 🤞)
+- 📝 I write articles on [https://medium.com/@mauro.erta](https://medium.com/@mauro.erta)
 
-- 📫 You can reach me at **mauro.erta@gmail.com** or **info@morfeo.dev**
+- 📫 You can reach me at **mauro.erta@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -17,12 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/mauroerta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mauroerta" height="30" width="40" /></a>
 <a href="https://twitter.com/mauro_erta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mauro_erta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mauroerta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauroerta" height="30" width="40" /></a>
 <a href="https://medium.com/@mauro.erta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mauro.erta" height="30" width="40" /></a>
-<a href="https://discord.gg/5hbsKMBRBh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5hbsKMBRBh" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/morfeo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="morfeo" /></a></p><br><br>
