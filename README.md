@@ -2,7 +2,7 @@
 
 ## About me
 
-- 🔭 I’m currently working on [Morfeo](https://github.com/morfeojs) at [@VLK Studio](https://github.com/VLK-STUDIO)
+- 🔭 I work at [@VLK Studio](https://github.com/VLK-STUDIO)
 
 - 🍔 I'm building [Foodlista](https://foodlista.it), a platform for restaurants
 
