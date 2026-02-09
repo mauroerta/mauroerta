@@ -12,7 +12,7 @@
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [You Were Never Paid to Type Code](https://medium.com/@mauro.erta/you-were-never-paid-to-type-code-f41bcd7541bf?source=rss-41123fb7e7ff------2)
+- [You Were Never Paid to Type Code](https://javascript.plainenglish.io/you-were-never-paid-to-type-code-f41bcd7541bf?source=rss-41123fb7e7ff------2)
 - [Advanced Typescript: Type Level Decimal to Binary Converter](https://javascript.plainenglish.io/advanced-typescript-type-level-decimal-to-binary-converter-337375531a80?source=rss-41123fb7e7ff------2)
 - [The Quickest Way to Become a Better Developer](https://javascript.plainenglish.io/the-quickest-way-to-become-a-better-developer-715c338a1cee?source=rss-41123fb7e7ff------2)
 - [Advanced TypeScript: Type-Level Nested Object Paths](https://javascript.plainenglish.io/advanced-typescript-type-level-nested-object-paths-7f3d8901f29a?source=rss-41123fb7e7ff------2)
