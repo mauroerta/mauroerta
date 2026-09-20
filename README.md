@@ -2,15 +2,15 @@
 
 ## About me
 
-- 🔭 I work at [@VLK Studio](https://github.com/VLK-STUDIO)
+I work at [@VLK Studio](https://github.com/VLK-STUDIO)
 
-- 🍔 I'm building [Foodlista](https://foodlista.it), a platform for restaurants
+Where we're building [Foodlista](https://foodlista.it), [eLibero](https://www.elibero.it/), [Noir Cases](https://noir.vlkstudio.com/) and so many other things.
 
-- 📝 I write articles on [https://medium.com/@mauro.erta](https://medium.com/@mauro.erta)
+You can check them out on [our website](https://vlkstudio.com).
 
-- 📫 You can reach me at **mauro.erta@gmail.com**
+Here, instead, my personal website [mauroerta.me](https://mauroerta.me)
 
-## Blogs posts
+## Some old articles on Medium
 <!-- BLOG-POST-LIST:START -->
 - [You Were Never Paid to Type Code](https://javascript.plainenglish.io/you-were-never-paid-to-type-code-f41bcd7541bf?source=rss-41123fb7e7ff------2)
 - [Advanced Typescript: Type Level Decimal to Binary Converter](https://javascript.plainenglish.io/advanced-typescript-type-level-decimal-to-binary-converter-337375531a80?source=rss-41123fb7e7ff------2)
